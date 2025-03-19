@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#resultados {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Tamanho total da janela */
+}
+
+#historico {
+    flex: 1;
+    overflow-y: auto; /* Permite rolagem no histórico */
+    padding: 10px;
+    background-color: #f1f1f1;
+    max-height: calc(100vh - 150px); /* Ajuste de altura do histórico */
+}
+
+#entrada {
+    padding: 10px;
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+    position: sticky;
+    bottom: 0; /* Fixar a barra de entrada na parte inferior */
+    z-index: 100; /* Para garantir que fique por cima do histórico */
+}
+
+form input {
+    padding: 5px;
+    font-size: 14px;
+}
+
+form button {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+#resultadoIcms, #resultadoIss, #resultadoTotal {
+    margin-top: 10px;
+}
