@@ -15,10 +15,9 @@ Bem-vindo ao projeto **Calculadora de Impostos**! 🧮🚀 Este é um sistema si
 
 ## 🖥️ Tecnologias Utilizadas
 
-- **PHP**: O backend que realiza os cálculos de impostos.
 - **HTML**: A estrutura para a interface de entrada de dados.
-- **CSS** (Opcional): Estilização para melhorar a experiência visual do usuário.
-- **cURL** (Opcional): Para integração com APIs externas do governo ou estados, permitindo obter alíquotas dinâmicas de ICMS e ISS.
+- **CSS** : Estilização para melhorar a experiência visual do usuário.
+- **Java Script** Para funcionalidade dos calculos no site
 
 ---
 
@@ -55,10 +54,9 @@ Imagina que você tenha feito uma compra no valor de **R$ 1.000,00**. Com as al�
 
 ## 🚀 Melhorias Futuras
 
-- **Integração com APIs**: Para consultar alíquotas dinâmicas de ICMS e ISS diretamente das Secretarias da Fazenda ou de dados abertos do governo.
 - **Validação de Dados**: Validação automática para garantir que os valores inseridos sejam numéricos e válidos.
 - **Design Responsivo**: Tornar a interface ainda mais amigável, especialmente para dispositivos móveis.
-- **Histórico de Cálculos**: Salvar e exibir os cálculos anteriores realizados pelos usuários.
+- **Histórico de Cálculo**: Salvar e exibir o ultimo cálculo anterior realizado pelos usuários.
 
 ---
 
