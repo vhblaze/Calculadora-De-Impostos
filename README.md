@@ -26,7 +26,7 @@ Bem-vindo ao projeto **Calculadora de Impostos**! 🧮🚀 Este é um sistema si
 
 1. **Clone o Repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/calculadora-impostos.git
+    git clone https://github.com/seu-usuario/Calculadora-De-Impostos.git
     ```
 
 2. **Configuração do Ambiente PHP**:
