@@ -28,16 +28,13 @@ Bem-vindo ao projeto **Calculadora de Impostos**! 🧮🚀 Este é um sistema si
     git clone https://github.com/seu-usuario/Calculadora-De-Impostos.git
     ```
 
-2. **Configuração do Ambiente PHP**:
-    Utilize um servidor local como **XAMPP**, **WAMP**, ou **MAMP** para rodar o projeto em seu computador.
-
-3. **Coloque os Arquivos no Diretório do Servidor**:
+2. **Coloque os Arquivos no Diretório do Servidor**:
     Coloque os arquivos dentro do diretório do servidor local (exemplo: **htdocs** no XAMPP).
 
-4. **Abra no Navegador**:
+3. **Abra no Navegador**:
     Acesse `http://localhost/calculadora-impostos/index.html`.
 
-5. **Use a Calculadora**:
+4. **Use a Calculadora**:
     Insira o valor da compra, selecione o imposto e veja os cálculos em tempo real!
 
 ---
